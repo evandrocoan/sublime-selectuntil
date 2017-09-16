@@ -1,0 +1,4 @@
+[
+    { "caption": "Select Until: Start selecting", "command": "select_until", "args": { "extend": true } },
+    { "caption": "Select Until: Reverse selection", "command": "reverse_select" },
+]
